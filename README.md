@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">An Passionate Web Developer from Cyprus | IT Student at EMU | Crafting Digital Wonders with Code</h3>
 
-- 🌱 I’m currently learning **Mastering Pure HTML/CSS/JavaScript, Node Package Manager**
+- 🌱 I’m currently learning **Mastering Pure HTML/CSS/JavaScript, Node Package Manager, React**
 
 - 💬 Ask me about **frontend**
 
