@@ -5,7 +5,7 @@
 
 - 🌱 I generally learn something when or **whenever** I need it
 
-- 💬 Ask me about **frontend**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **emiryncr@gmail.com**
 
