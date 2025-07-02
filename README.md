@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">An Passionate Web Developer from Cyprus | IT Student at EMU | Crafting Digital Wonders with Code</h3>
 
-- ⚡ Currently working on individual **MERN stack** project based learning
+- ⚡ Currently working on a self-paced MERN stack project-based learning program through [FullStackOpen](https://fullstackopen.com)
 
 - 🌱 I generally learn something when or **whenever** I need it
 
